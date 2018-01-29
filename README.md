@@ -48,7 +48,7 @@ As the program runs succesfully, an INPUT_FILE.mimosa output is created, includi
 
 3. DATABASE
 MIMOSA requires database files, structured for both hybridization (-H) and alignment (-B) modes. Those files
-can be downloaded from the project website (http://bioinfo.unl.edu/mimosa.php).
+can be downloaded from the following link: http://bioinfo.unl.edu/downloads/mimosa.0.1db.tar.bz2.
 
 THE DATABASE FILES SHOULD BE PLACED IN THE "db" folder under mimosa directory. The regarding information is included in the "Version.h"
 header file in the source code, and the users are free to manipulate this header file at their convenience.
